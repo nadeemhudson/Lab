@@ -28,6 +28,7 @@ namespace Lab.Pages.DB
             SqlDataReader tempReader = cmdProductRead.ExecuteReader();
 
             return tempReader;
+            //iuhliuhliuh
         }
     }
 }
