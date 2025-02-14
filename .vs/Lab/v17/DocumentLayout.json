@@ -23,15 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lab",
+              "Title": "Lab.csproj",
               "DocumentMoniker": "C:\\Users\\Nadeem\\Documents\\CIS 484\\Lab\\Lab\\Lab.csproj",
               "RelativeDocumentMoniker": "Lab\\Lab.csproj",
               "ToolTip": "C:\\Users\\Nadeem\\Documents\\CIS 484\\Lab\\Lab\\Lab.csproj",
               "RelativeToolTip": "Lab\\Lab.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-14T00:33:46.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T00:33:46.744Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "Lab\\Pages\\DB\\DBClass.cs",
               "ToolTip": "C:\\Users\\Nadeem\\Documents\\CIS 484\\Lab\\Lab\\Pages\\DB\\DBClass.cs",
               "RelativeToolTip": "Lab\\Pages\\DB\\DBClass.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T00:22:23.945Z",
               "EditorCaption": ""
