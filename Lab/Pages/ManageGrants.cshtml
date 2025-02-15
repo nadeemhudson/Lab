@@ -1,0 +1,52 @@
+﻿@page
+@model Lab.Pages.ManageGrantsModel
+@{
+	ViewData["Title"] = "Manage Grants";
+}
+<h2>Manage Grants</h2>
+
+<form method="post">
+    <div>
+        <label asp-for="Grant.GrantName"></label>
+        <input asp-for="Grant.GrantName" />
+    </div>
+    <div>
+        <label asp-for="Grant.Agency"></label>
+        <select asp-for="Grant.Agency">
+            @foreach (var agency in Model.Agencies)
+            {
+                <option value="@agency">@agency</option>
+            }
+        </select>
+    </div>
+    <div>
+        <label asp-for="Grant.Status"></label>
+        <input asp-for="Grant.Status" />
+    </div>
+    <div>
+        <label asp-for="Grant.Category"></label>
+        <input asp-for="Grant.Category" />
+    </div>
+    <div>
+        <label asp-for="Grant.AwardAmount"></label>
+        <input asp-for="Grant.AwardAmount" type="number" step="0.01" />
+    </div>
+    <div>
+        <label asp-for="Grant.SubmissionDate"></label>
+        <input asp-for="Grant.SubmissionDate" type="date" />
+    </div>
+    <div>
+        <label asp-for="Grant.AwardDate"></label>
+        <input asp-for="Grant.AwardDate" type="date" />
+    </div>
+    <div>
+        <label asp-for="Grant.AssociatedPeople"></label>
+        <select asp-for="Grant.AssociatedPeople" multiple>
+            @foreach (var person in Model.People)
+            {
+                <option value="@person">@person</option>
+            }
+        </select>
+    </div>
+    <button type="submit">Submit</button>
+</form>

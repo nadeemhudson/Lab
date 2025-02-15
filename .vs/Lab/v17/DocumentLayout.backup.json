@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Nadeem\\Documents\\CIS 484\\Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90A7BB66-4562-4512-9125-7E4B6BB48652}|Lab\\Lab.csproj|c:\\users\\nadeem\\documents\\cis 484\\lab\\lab\\pages\\managegrants.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A7BB66-4562-4512-9125-7E4B6BB48652}|Lab\\Lab.csproj|solutionrelative:lab\\pages\\managegrants.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A7BB66-4562-4512-9125-7E4B6BB48652}|Lab\\Lab.csproj|c:\\users\\nadeem\\documents\\cis 484\\lab\\lab\\pages\\managegrants.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90A7BB66-4562-4512-9125-7E4B6BB48652}|Lab\\Lab.csproj|solutionrelative:lab\\pages\\managegrants.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90A7BB66-4562-4512-9125-7E4B6BB48652}|Lab\\Lab.csproj|c:\\users\\nadeem\\documents\\cis 484\\lab\\lab\\pages\\db\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90A7BB66-4562-4512-9125-7E4B6BB48652}|Lab\\Lab.csproj|solutionrelative:lab\\pages\\db\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,12 +26,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageGrants.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Nadeem\\Documents\\CIS 484\\Lab\\Lab\\Pages\\ManageGrants.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab\\Pages\\ManageGrants.cshtml.cs",
+              "ToolTip": "C:\\Users\\Nadeem\\Documents\\CIS 484\\Lab\\Lab\\Pages\\ManageGrants.cshtml.cs",
+              "RelativeToolTip": "Lab\\Pages\\ManageGrants.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:12:46.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lab",
+              "Title": "ManageGrants.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nadeem\\Documents\\CIS 484\\Lab\\Lab\\Pages\\ManageGrants.cshtml",
+              "RelativeDocumentMoniker": "Lab\\Pages\\ManageGrants.cshtml",
+              "ToolTip": "C:\\Users\\Nadeem\\Documents\\CIS 484\\Lab\\Lab\\Pages\\ManageGrants.cshtml",
+              "RelativeToolTip": "Lab\\Pages\\ManageGrants.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T16:12:41.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab.csproj",
               "DocumentMoniker": "C:\\Users\\Nadeem\\Documents\\CIS 484\\Lab\\Lab\\Lab.csproj",
               "RelativeDocumentMoniker": "Lab\\Lab.csproj",
               "ToolTip": "C:\\Users\\Nadeem\\Documents\\CIS 484\\Lab\\Lab\\Lab.csproj",
@@ -35,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DBClass.cs",
               "DocumentMoniker": "C:\\Users\\Nadeem\\Documents\\CIS 484\\Lab\\Lab\\Pages\\DB\\DBClass.cs",
               "RelativeDocumentMoniker": "Lab\\Pages\\DB\\DBClass.cs",
               "ToolTip": "C:\\Users\\Nadeem\\Documents\\CIS 484\\Lab\\Lab\\Pages\\DB\\DBClass.cs",
               "RelativeToolTip": "Lab\\Pages\\DB\\DBClass.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T00:22:23.945Z",
               "EditorCaption": ""
